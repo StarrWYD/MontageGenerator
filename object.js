@@ -67,7 +67,7 @@ const object = {
 	],
 	"video12": [
 		{
-			"url": "https://www.youtube.com/watch?v=LwM-pwoq0Z0&t=10s",
+			"url": "https://www.youtube.com/watch?v=LwM-pwoq0Z0&t",
 			"title": "White Teeth 😬"
 		}
 	],
