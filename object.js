@@ -100,12 +100,6 @@ const object = {
 			"url": "https://www.youtube.com/watch?v=bUju-9Mi9bE",
 			"title": "Mi No Sabe 🚨 | Doniee Highlights #10"
 		}
-	],
-	"video18": [
-		{
-			"url": "https://www.youtube.com/watch?v=64ZO1RZ8l2U",
-			"title": "Attached 💔 | Clix"
-		}
 	]
 }
 window.object
