@@ -106,12 +106,6 @@ const object = {
 			"url": "https://www.youtube.com/watch?v=jW6uLaAHSjY",
 			"title": "Dreaming 💭 + Best 60FPS Player Switches To 144FPS"
 		}
-	],
-	"video19": [
-		{
-			"url": "https://www.youtube.com/watch?v=qdne_8W_qL0",
-			"title": "Baby Sasuke 💫 (ft. Faze Sway)"
-		}
 	]
 }
 window.object
