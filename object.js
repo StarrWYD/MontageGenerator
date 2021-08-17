@@ -130,6 +130,12 @@ const object = {
 			"url": "https://www.youtube.com/watch?v=nPr4Ee6DHpc",
 			"title": "XELFMADE 🌟 | Clix"
 		}
+	],
+	"video23": [
+		{
+			"url": "https://www.youtube.com/watch?v=5AaUEdipk9w",
+			"title": "Wolfiez Highlights #17"
+		}
 	]
 }
 window.object
