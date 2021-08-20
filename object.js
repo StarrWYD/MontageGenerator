@@ -136,6 +136,12 @@ const object = {
 			"url": "https://www.youtube.com/watch?v=5AaUEdipk9w",
 			"title": "Wolfiez Highlights #17"
 		}
+	],
+	"video24": [
+		{
+			"url": "https://www.youtube.com/watch?v=en2AUR85RxA",
+			"title": "Sweater Weather ❄️| Deyy Highlights #32"
+		}
 	]
 }
 window.object
