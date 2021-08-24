@@ -142,6 +142,18 @@ const object = {
 			"url": "https://www.youtube.com/watch?v=en2AUR85RxA",
 			"title": "Sweater Weather ❄️| Deyy Highlights #32"
 		}
+	],
+	"video25": [
+		{
+			"url": "https://www.youtube.com/watch?v=8mg5o4gAu5s",
+			"title": "No Lie 🙅‍♀‍ | Fnatic crr"
+		}
+	],
+	"video26": [
+		{
+			"url": "https://www.youtube.com/watch?v=dTSDzgpUoKo",
+			"title": "Free Me ✊ - illest Highlights #15"
+		}
 	]
 }
 window.object
