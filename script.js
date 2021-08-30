@@ -1,8 +1,22 @@
 var objectkeys = Object.keys(object)
+a = 0;
 var numlist = Array.apply(null, Array(objectkeys.length)).map(function (_, i) {return i;})
+var numlist2 = numlist
 function getRandomInt() {
-	var x = numlist[Math.floor(Math.random()*numlist.length)]
-	return x
+	if (a < objectkeys.length) {
+		var x = numlist[Math.floor(Math.random()*numlist.length)]
+		numlist = numlist.filter(item => item !== x)
+		a = a + 1
+		return x
+	}
+	if (a == objectkeys.length) {
+		a = 0
+		numlist = numlist2
+		var x = numlist[Math.floor(Math.random()*numlist.length)]
+		numlist = numlist.filter(item => item !== x)
+		a = a + 1
+		return x
+	}
 }
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
